@@ -1,4 +1,6 @@
-for i in range(10):
-    for j in range(5):
-        print(i*j)
+a=1
+b=2
+print("c的值为：",end="")
+print(a+b)
+d=0
 
